@@ -1,0 +1,10 @@
+Flask
+Flask-RESTful
+flask_cors
+pony
+mysql-connector-python
+mysqlclient
+flask_injector
+injector
+flask-jwt
+passlib
