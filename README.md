@@ -7,3 +7,4 @@
 
 - **Til 05/04/2019** - Refactored project into api-model-service Model. Implemented the REST Api's. 
 - **08/04/2019** - Implemented the Pony database entities. Implemented the Store Service classes. 
+- **12/04/2019** - Implemented StoreService unit tests.
