@@ -27,6 +27,9 @@ Make sure you are in the virtual environment and run
 python app.py
 ```
 
+### Database
+Database is sqlite and will be stored in the db file.
+
 ## Change log
 
 - **Til 05/04/2019** - Refactored project into api-model-service Model. Implemented the REST Api's. 
